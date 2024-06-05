@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 body {
-	max-width: 1400px;
+	max-width: 1200px;
 	margin: auto;
 	padding: 16px;
 	font-family: 'Montserrat', sans-serif;
@@ -65,13 +65,4 @@ main {
 }
 .fiches article h2 {
 	text-align: center;
-}
-
-.abordables{
-	display: flex;
-	flex-direction: column;
-}
-
-.disponible {
-	order: 3;
 }
